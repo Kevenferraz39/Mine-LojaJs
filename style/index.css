@@ -57,6 +57,12 @@ a:hover{
     border-bottom: 2px dotted;
     padding: 10px 0;
 }
+.cart{
+    float: right;
+    width: 300px;
+    height: 200px;
+    border: 1px solid #ccc;
+}
 @media  screen and (max-width:768px) {
     .produto-single{
         width: 100%;

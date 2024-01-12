@@ -17,6 +17,42 @@ const itens = [
         img: 'img/imagem.jpeg',
         quantidade: 0
     },
+    {
+        id:3,
+        nome: 'Camiseta 2',
+        img: 'img/imagem.jpeg',
+        quantidade: 0
+    },
+    {
+        id:4,
+        nome: 'Short 2',
+        img: 'img/imagem.jpeg',
+        quantidade: 0
+    },
+    {
+        id:5,
+        nome: 'Boné 2',
+        img: 'img/imagem.jpeg',
+        quantidade: 0
+    },
+    {
+        id:6,
+        nome: 'Camiseta 3',
+        img: 'img/imagem.jpeg',
+        quantidade: 0
+    },
+    {
+        id:7,
+        nome: 'Short3',
+        img: 'img/imagem.jpeg',
+        quantidade: 0
+    },
+    {
+        id:8,
+        nome: 'Boné3',
+        img: 'img/imagem.jpeg',
+        quantidade: 0
+    },
 ]
 
  // inicializarLoja = () => {} isso é igual a isso: function inicializarLoja() porem mais moderno 
